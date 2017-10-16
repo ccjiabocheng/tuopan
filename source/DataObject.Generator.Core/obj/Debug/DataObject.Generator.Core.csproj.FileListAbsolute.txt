@@ -1,0 +1,10 @@
+F:\1.开发\基础项目\实体类生成器\source\DataObject.Generator.Core\obj\Debug\DataObject.Generator.Core.csprojResolveAssemblyReference.cache
+F:\1.开发\基础项目\实体类生成器\source\DataObject.Generator.Core\bin\Debug\DataObject.Generator.Core.dll
+F:\1.开发\基础项目\实体类生成器\source\DataObject.Generator.Core\bin\Debug\DataObject.Generator.Core.pdb
+F:\1.开发\基础项目\实体类生成器\source\DataObject.Generator.Core\obj\Debug\DataObject.Generator.Core.dll
+F:\1.开发\基础项目\实体类生成器\source\DataObject.Generator.Core\obj\Debug\DataObject.Generator.Core.pdb
+D:\NewCode\实体类生成器\source\DataObject.Generator.Core\bin\Debug\DataObject.Generator.Core.dll
+D:\NewCode\实体类生成器\source\DataObject.Generator.Core\bin\Debug\DataObject.Generator.Core.pdb
+D:\NewCode\实体类生成器\source\DataObject.Generator.Core\obj\Debug\DataObject.Generator.Core.csprojResolveAssemblyReference.cache
+D:\NewCode\实体类生成器\source\DataObject.Generator.Core\obj\Debug\DataObject.Generator.Core.dll
+D:\NewCode\实体类生成器\source\DataObject.Generator.Core\obj\Debug\DataObject.Generator.Core.pdb

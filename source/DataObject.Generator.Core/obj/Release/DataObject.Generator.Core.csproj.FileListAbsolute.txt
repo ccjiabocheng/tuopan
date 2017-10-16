@@ -1,0 +1,8 @@
+F:\1.开发\基础项目\实体类生成器\source\DataObject.Generator.Core\bin\Release\DataObject.Generator.Core.dll
+F:\1.开发\基础项目\实体类生成器\source\DataObject.Generator.Core\bin\Release\DataObject.Generator.Core.pdb
+F:\1.开发\基础项目\实体类生成器\source\DataObject.Generator.Core\obj\Release\DataObject.Generator.Core.dll
+F:\1.开发\基础项目\实体类生成器\source\DataObject.Generator.Core\obj\Release\DataObject.Generator.Core.pdb
+D:\NewCode\实体类生成器\source\DataObject.Generator.Core\bin\Release\DataObject.Generator.Core.dll
+D:\NewCode\实体类生成器\source\DataObject.Generator.Core\bin\Release\DataObject.Generator.Core.pdb
+D:\NewCode\实体类生成器\source\DataObject.Generator.Core\obj\Release\DataObject.Generator.Core.dll
+D:\NewCode\实体类生成器\source\DataObject.Generator.Core\obj\Release\DataObject.Generator.Core.pdb

@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25123.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataObject.Generator", "DataObject.Generator\DataObject.Generator.csproj", "{640DD689-79EC-4F7A-BFA3-4D2EC2B30EF0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataObject.Generator.Core", "DataObject.Generator.Core\DataObject.Generator.Core.csproj", "{C9CE5A52-9225-460C-9CCD-CD47726F92B4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{640DD689-79EC-4F7A-BFA3-4D2EC2B30EF0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{640DD689-79EC-4F7A-BFA3-4D2EC2B30EF0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{640DD689-79EC-4F7A-BFA3-4D2EC2B30EF0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{640DD689-79EC-4F7A-BFA3-4D2EC2B30EF0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C9CE5A52-9225-460C-9CCD-CD47726F92B4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C9CE5A52-9225-460C-9CCD-CD47726F92B4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C9CE5A52-9225-460C-9CCD-CD47726F92B4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C9CE5A52-9225-460C-9CCD-CD47726F92B4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
